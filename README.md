@@ -15,7 +15,7 @@
 ## 🧪 Accuracy and Performance
 
 - 📦 **Dataset**: [Garbage Classification (Kaggle)](https://www.kaggle.com/datasets/mostafaabla/garbage-classification)
-- 🔌 **XIAO ESP32S3**: [eeed Studio XIAO ESP32S3 Hardware Reference](https://github.com/Mjrovai/XIAO-ESP32S3-Sense)
+- 🔌 **XIAO ESP32S3**: [Seeed Studio XIAO ESP32S3 Hardware Reference](https://github.com/Mjrovai/XIAO-ESP32S3-Sense)
 - 📈 **Test Images**: 14,275
 - ✅ **Top-1 Recognition Accuracy**: 61.8%
 - ⏱️ **Inference Latency**: ~700ms (XIAO ESP32S3)
