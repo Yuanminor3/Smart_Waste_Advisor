@@ -22,7 +22,7 @@
 - 🌐 **GPT Feedback Time**: ~400ms (GPT-API)
 - 🎯 **End-to-End Response**: ~1.1s
 
-**GPT Waste Tips**
+**GPT Waste Tips on Display**
 ![GPT Waste Tips](docs/demo_examples.png)
 
 ## 📄 Demo and Documentation
