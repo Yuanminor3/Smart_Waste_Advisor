@@ -1,0 +1,2 @@
+# Smart_Waste_Advisor
+ColumbiaU_ELENE6908_EmbeddedAI_FinalProject_Group13
