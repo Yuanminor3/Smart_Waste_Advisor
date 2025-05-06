@@ -19,7 +19,7 @@
 - 📈 **Test Images**: 14,275
 - ✅ **Top-1 Recognition Accuracy**: 61.8%
 - ⏱️ **Inference Latency**: ~700ms (XIAO ESP32S3)
-- 🌐 **GPT Feedback Time**: ~400ms (GPT-API)
+- 🌐 **GPT Feedback Time**: ~400ms (API)
 - 🎯 **End-to-End Response**: ~1.1s
 
 **GPT Waste Tips on Display**
