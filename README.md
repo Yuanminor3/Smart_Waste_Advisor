@@ -2,14 +2,16 @@
 
 ## 📋 Project Information
 - **Course**: ELENE6908 Embedded AI – Columbia University, Spring 2025
-- **Team Number**: Group 13 (🏆 People’s Choice Award)
+- **Team Number**: Group 13
 - **Team Members**:
   - Yuan Jiang (yj2848@columbia.edu)
   - Lingxi Zhang (lz2991@columbia.edu)
   - Hongrui Huang (hh3084@columbia.edu)
 
-## 📚 Overview
+## 🏆 Award
+**People’s Choice Award**, EE6908 Embedded AI Final Project Showcase (Spring 2025)
 
+## 📚 Overview
 **Smart Waste Advisor** is a self-contained embedded system that performs real-time object classification and delivers disposal tips via on-device display and audio. It uses a MobileNetV1 model for classification and integrates OpenAI GPT-3.5 Turbo for natural language feedback.
 
 ## 🧪 Accuracy and Performance
