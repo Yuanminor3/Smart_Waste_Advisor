@@ -27,7 +27,7 @@
 - ✅ **Top-1 Recognition Accuracy**: 61.8%
 - ⏱️ **Inference Latency**: ~700ms (XIAO ESP32S3)
 - 🌐 **GPT Feedback Time**: ~400ms (API)
-- 🎯 **End-to-End Response**: ~1.1s
+- 🎯 **End-to-End Response**: ~**1.1s**
 
 <!-- **System Architecture of Smart Waste Advisor**
 ![System Architecture of Smart Waste Advisor](docs/system_archi.png)
@@ -43,7 +43,6 @@
 <p align="center">
   <img src="docs/demo_examples.png" alt="GPT Waste Tips" width="500"/>
 </p>
-
 
 ## 🧱 Directory Structure
 
