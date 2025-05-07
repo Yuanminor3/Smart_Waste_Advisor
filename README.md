@@ -36,12 +36,12 @@
 
 <h3 align="center">System Architecture of Smart Waste Advisor</h3>
 <p align="center">
-  <img src="docs/system_archi.png" alt="System Architecture of Smart Waste Advisor" width="500"/>
+  <img src="docs/system_archi.png" alt="System Architecture of Smart Waste Advisor" width="800"/>
 </p>
 
 <h3 align="center">GPT Waste Tips on Display</h3>
 <p align="center">
-  <img src="docs/demo_examples.png" alt="GPT Waste Tips" width="400"/>
+  <img src="docs/demo_examples.png" alt="GPT Waste Tips" width="500"/>
 </p>
 
 
