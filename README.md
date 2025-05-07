@@ -14,6 +14,11 @@
 ## 📚 Overview
 **Smart Waste Advisor** is a self-contained embedded system that performs real-time object classification and delivers disposal tips via on-device display and audio. It uses a MobileNetV1 model for classification and integrates OpenAI GPT-3.5 Turbo for natural language feedback.
 
+## 📄 Demo and Documentation
+- [📺 Live Demo (YouTube)](https://www.youtube.com/watch?v=yLumTr9vXq0)
+- [📘 Final Report (PDF)](docs/Final_Report.pdf)
+- [📽️ Final Presentation Slides (PDF)](docs/Group13_Slides.pdf)
+
 ## 🧪 Accuracy and Performance
 
 - 📦 **Dataset**: [Garbage Classification (Kaggle)](https://www.kaggle.com/datasets/mostafaabla/garbage-classification)
@@ -26,11 +31,6 @@
 
 **GPT Waste Tips on Display**
 ![GPT Waste Tips](docs/demo_examples.png)
-
-## 📄 Demo and Documentation
-- [📺 Live Demo (YouTube)](https://www.youtube.com/watch?v=yLumTr9vXq0)
-- [📘 Final Report (PDF)](docs/Final_Report.pdf)
-- [📽️ Final Presentation Slides (PDF)](docs/Group13_Slides.pdf)
 
 ## 🧱 Directory Structure
 
