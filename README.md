@@ -1,8 +1,8 @@
-# 🧠♻️ Smart Waste Advisor: Real-Time Waste Classification and Interactive Feedback on Embedded Edge Devices
+# 🤖♻️ Smart Waste Advisor: Real-Time Waste Classification and Interactive Feedback on Embedded Edge Devices
 
 ## 📋 Project Information
 - **Course**: ELENE6908 Embedded AI – Columbia University, Spring 2025
-- **Team Number**: Group 13
+- **Team Number**: Group 13 (🏆 People’s Choice Award)
 - **Team Members**:
   - Yuan Jiang (yj2848@columbia.edu)
   - Lingxi Zhang (lz2991@columbia.edu)
