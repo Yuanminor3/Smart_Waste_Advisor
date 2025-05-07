@@ -9,7 +9,7 @@
   - Hongrui Huang (hh3084@columbia.edu)
 
 ## 🏆 Award
-**People’s Choice Award**, EE6908 Embedded AI Final Project Showcase (Spring 2025)
+**People’s Choice Award** - ELENE6908 Embedded AI Final Project Showcase (Spring 2025)
 
 ## 📚 Overview
 **Smart Waste Advisor** is a self-contained embedded system that performs real-time object classification and delivers disposal tips via on-device display and audio. It uses a MobileNetV1 model for classification and integrates OpenAI GPT-3.5 Turbo for natural language feedback.
