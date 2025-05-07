@@ -28,12 +28,9 @@
 - ⏱️ **Inference Latency**: ~700ms (XIAO ESP32S3)
 - 🌐 **GPT Feedback Time**: ~400ms (API)
 - 🎯 **End-to-End Response**: ~1.1s
-
-**System Architecture of Smart Waste Advisor**
-![System Architecture of Smart Waste Advisor](docs/system_archi.png)
 <h3 align="center">System Architecture of Smart Waste Advisor</h3>
-
-**GPT Waste Tips on Display**
+![System Architecture of Smart Waste Advisor](docs/system_archi.png)
+<h3 align="center">GPT Waste Tips on Display</h3>
 ![GPT Waste Tips](docs/demo_examples.png)
 
 ## 🧱 Directory Structure
