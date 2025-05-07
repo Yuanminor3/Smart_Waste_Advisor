@@ -31,10 +31,8 @@
 
 **System Architecture of Smart Waste Advisor**
 ![System Architecture of Smart Waste Advisor](docs/system_archi.png)
-<h3 style="text-align: center;">System Architecture of Smart Waste Advisor</h3>
-<p align="center">
-  <img src="docs/demo_examples.png" alt="GPT Waste Tips" width="400"/>
-</p>
+<h3 align="center">System Architecture of Smart Waste Advisor</h3>
+
 **GPT Waste Tips on Display**
 ![GPT Waste Tips](docs/demo_examples.png)
 
